@@ -57,9 +57,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 *Update these links as you complete each tool setup:*
 - **GitHub Profile:**  https://github.com/Salinasomar23
 - **Workspace Repository:** https://github.com/Salinasomar23/Workspace-template
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
-- **LiveCode:** [Add your LiveCode profile here] ⏳
+- **Figma:** Salinasomar23
+- **CodePen:** https://codepen.io/Salinasomar23
 - **GitHub Student Pack:** [Confirm approval status here] ⏳
 
 ### **How to Update Your Toolkit:**
