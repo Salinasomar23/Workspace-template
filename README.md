@@ -59,7 +59,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 - **Workspace Repository:** https://github.com/Salinasomar23/Workspace-template
 - **Figma:** Salinasomar23
 - **CodePen:** https://codepen.io/Salinasomar23
-- **GitHub Student Pack:** [Confirm approval status here] ⏳
+- **GitHub Student Pack:** APPROVED
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README
