@@ -4,6 +4,8 @@ Omar Duran · Spring 2026
 **Welcome to my portfolio!**
 This is my course workspace — the place where all my code, designs, and projects live. By the end of the quarter, this repo becomes my portfolio.
 
+#about me: I’m a graphic design student at EWU with a growing interest in web design and development.
+Here you’ll find my DESN 368 work—projects, exercises, and experiments that reflect my learning process.
 ---
 ---
 
@@ -38,9 +40,9 @@ This is my course workspace — the place where all my code, designs, and projec
 ## 🎯 **Course Progress**
 *Check off assignments as you complete them:*
 
-- [ ] **Week 1:** S3tup & 0nb04rd1ng
-- [ ] **Week 2:** Th3 F1r5t T4g
-- [ ] **Week 3:** D0cum3nt 4rch1t3ctur3
+- [x] **Week 1:** S3tup & 0nb04rd1ng
+- [x] **Week 2:** Th3 F1r5t T4g
+- [x] **Week 3:** D0cum3nt 4rch1t3ctur3
 - [ ] **Week 4:** Th3 C4sc4d3 B3g1n5
 - [ ] **Week 5:** F0rm5 & 1nput5
 - [ ] **Week 6:** Fl3xb0x M45t3ry
