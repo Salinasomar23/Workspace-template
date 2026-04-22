@@ -1,0 +1,71 @@
+
+@import 
+url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
+
+
+body{
+    font-family: 'Science Gothic', sans-serif;
+}
+
+
+main {
+  max-width: 800px; /* change this at will */
+  margin: 0 auto;
+  padding: 20px;
+}
+.recipe-title {
+    background-color: black;
+    font-size: 40px;
+    color:white;
+    text-align: center;
+}
+
+h2 {
+  background-color: black;
+  font-size: 25px;
+  color:white;
+}
+
+.intro-text {
+  font-size: 20px;
+  color:black;
+}
+
+p {
+  font-size: 18px;
+  color:black;
+}
+
+li {
+  font-size: 18px;
+  color:black;
+  list-style-type:square;
+
+}
+
+img {
+  width: 500px;
+  height: 300px;
+
+}
+body {
+    background: linear-gradient(to bottom,white,lightblue);
+
+}
+
+#Ingredients {
+    background-color: white;
+}
+
+#Directions{
+    background-color:white;
+}
+
+a:hover{
+    color:red;
+}
+
+a{
+    text-decoration:none;
+
+}
