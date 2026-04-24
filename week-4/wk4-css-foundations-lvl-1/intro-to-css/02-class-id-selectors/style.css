@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+.content-1{
+    background-color:rgb(255, 182, 193);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+    font-size:24px;
+}
+
+#content-2{
+    color:blue;
+    font-size:36px;
+}
+
+
+.content-3{
+    background-color:rgb(255, 182, 193);
+    font-size:24px;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+#content-4{
+    background-color:rgb(144, 238, 144);
+    font-size:24px;
+    font-weight:bold;
+}
+.content-5{
+    background-color:rgb(255, 182, 193);
+    font-size:24px;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
