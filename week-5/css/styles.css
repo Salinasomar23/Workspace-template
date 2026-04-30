@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color:rgba(0,0,0,0.81);
+    margin:34px auto 0;
+    padding: 41px 100px;
+    width:874px;
+    height:513px;
+}
+
+.hero{
+    background-color:black;
+    text-align: center;
+    padding:10px;
+
+}
+.hero h1{
+    color:white;
+    font-size: 64px;
+    margin:0;
+}
+.hero h2{
+    color:white;
+    font-size: 36px;
+    margin-top:5px;
+    margin-bottom:0;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 672px;
+    height:431px;
+}
