@@ -1,0 +1,107 @@
+body {
+
+}
+
+.book-header {
+  line-height:25px;
+
+
+}
+
+.genre-label {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  letter-spacing:0.03px;
+  opacity:0.75;
+
+}
+
+.book-title {
+  font-family: "Berkshire Swash",serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:40px;
+  line-height:45px;
+  letter-spacing:0.03px;
+
+}
+
+.book-author {  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  letter-spacing:0.03px;
+  opacity:0.75;
+  font-size:15px;
+}
+
+.chapter-number {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  opacity:0.75;
+  text-transform:uppercase;
+  font-size:15px;
+}
+
+.chapter-title {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+
+}
+
+.book-meta {
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  font-size:14px;
+  line-height:2;
+  
+
+}
+
+.book-date {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+
+}
+
+.book-excerpt {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  line-height:2;
+  margin:auto;
+
+
+}
+
+.book-excerpt p {
+
+}
+
+.typography-analysis {
+
+}
+
+.typography-analysis h2 {
+
+}
+
+.typography-analysis p {
+
+}
