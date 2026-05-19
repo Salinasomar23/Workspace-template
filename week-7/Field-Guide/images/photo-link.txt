@@ -1,0 +1,9 @@
+Paste your photo URL here:
+
+https://static.wikia.nocookie.net/onepiece/images/9/92/Devil_Fruit_Infobox.png/revision/latest?cb=20240421115906
+
+Then use that URL in your HTML like this:
+
+<img src="https://example.com/your-photo.jpg" alt="Description of photo" />
+
+If you want, replace the src value above with the link to your own photo.
