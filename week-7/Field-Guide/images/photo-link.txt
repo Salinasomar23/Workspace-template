@@ -1,6 +1,5 @@
 Paste your photo URL here:
-
-https://static.wikia.nocookie.net/onepiece/images/9/92/Devil_Fruit_Infobox.png/revision/latest?cb=20240421115906
+https://wallpapercave.com/wp/wp9483424.jpg
 
 Then use that URL in your HTML like this:
 
