@@ -1,6 +1,46 @@
 Paste your photo URL here:
 https://wallpapercave.com/wp/wp9483424.jpg
 
+https://cd-opf.pages.dev/fruits/04586c2e-4407-46d1-986b-96b38a2fe264.webp  Puff-Puff-Fruit
+
+https://cd-opf.pages.dev/fruits/0b8f22e3-2841-4e2e-a330-cef2746b4490.webp  dragon-Dragon-Fruit-Model:Brachiosaurus
+
+https://cd-opf.pages.dev/fruits/1c853f73-073f-4bae-be90-901ce31c9ca5.webp  clone-clone fruit
+
+https://cd-opf.pages.dev/fruits/2d8d7116-a89f-4cbf-9893-6e1156045a7e.webp  Door-Door fruit
+
+https://cd-opf.pages.dev/fruits/34d9afbd-a50a-4879-9422-401c7735bf5b.webp  ice-ice fruit
+
+https://cd-opf.pages.dev/fruits/3e6cecd7-2a21-4429-a0ea-472655935312.webp  string-string fruit
+
+https://cd-opf.pages.dev/fruits/42b0f3ff-8dea-4a66-bcff-d4801f87a60e.webp  dice-dice fruit
+
+https://cd-opf.pages.dev/fruits/5ff126e1-a851-4209-b1f7-0045dd779336.webp  wax-wax  fruit
+
+https://cd-opf.pages.dev/fruits/74d84e97-88df-41eb-ae99-6ed20dfc15f1.webp  bird-bird fruit model:pheonix
+
+https://cd-opf.pages.dev/fruits/be06e960-fff8-4625-ba8a-3353262f5719.webp  gas-gas fruit
+
+https://cd-opf.pages.dev/fruits/e7711afb-1d99-44c5-9125-d8fc965e6fdc.webp  Plume-plume fruit
+
+https://cd-opf.pages.dev/fruits/25c7ba78-4e3c-40f1-9bef-2b9e2af8dbd4.webp  ripe-ripe fruit
+
+https://cd-opf.pages.dev/fruits/187e7b71-39b6-491a-b052-90ac350a2643.webp  human-human fruit
+
+https://cd-opf.pages.dev/fruits/27264f75-a52c-4e6b-9bc0-0e8736284228.webp  rumble-rumble fruit
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then use that URL in your HTML like this:
 
 <img src="https://example.com/your-photo.jpg" alt="Description of photo" />
