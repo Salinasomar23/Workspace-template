@@ -76,10 +76,10 @@ header {
 }
 
 .sidebar{
-    flex:0 0 250px;
+    flex:0 0 300px;
     position:sticky;
     top: 0.5em;
-    max-height: calc(100vh - 15rem);
+    max-height: calc(50vh - 15rem);
     background-color:#f4f4f4;
     padding:2rem 2.5rem;
 
@@ -93,7 +93,7 @@ header {
 /*add 2nd font here*/
 .sidebar ul{
     list-style:none;
-    font-family:"Inria Sans", sans-serif;
+    font-family:Sansita, sans-serif;
 
 }
 
@@ -152,6 +152,7 @@ header {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(0, 0, 0, 0.1);
     scroll-margin-top: 50px;
+    max-width:850px;
 }
 
 .content section img {
@@ -170,6 +171,50 @@ header {
 
 }
 
+.fruit-gallery{
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+    gap: 20px;
+    margin-top: 1.5rem;
+}
+
+.fruit-group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Inria Sans", sans-serif;
+    font-size:0.9rem;
+    font-weight:bold;
+}
+
+.fruit-group img{
+    max-width:120px;
+    height: auto;
+    margin-bottom: 0.5rem;
+}
+
+.cuffs{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.cuffs img{
+    max-width: 400px;
+    width: 100%;
+    margin-top: 1.5rem;
+
+}
+
+.cuffs img{
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}
+
+
 
 .fruit-images img{
     width: calc(16.666% - 20px);
@@ -178,6 +223,18 @@ header {
     object-fit: contain;
 }
 
+.awakening{
+    display: flex;
+    justify-content:center;
+    gap: 15px;
+    margin-top: 1.5rem;
+}
+.awakening img{
+    width: calc(33.333% - 10px);
+    height: auto;
+    max-width:250px;
+    object-fit: cover;
+}
 
 
 .content h2{
@@ -320,6 +377,26 @@ footer{
         max-width:55px;
         object-fit: contain;
     }
+
+    .fruit-gallery, .awakening{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .fruit-group img{
+        max-width: 80px;
+    }
+    
+    .awakening img{
+        width: calc(50% - 10px);
+    }
+
+    .cuffs img{
+        max-width:100%;
+    }
+
+
 }
 
 /*mobile end*/
