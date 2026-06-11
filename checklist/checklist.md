@@ -44,25 +44,25 @@ Part 4: Portfolio Build — Technical
 
 
 Part 5: Reflection
-Created reflection page (linked from portfolio)
-The Threshold: Answered in 3-5 sentences minimum
-The Pit: Answered in 3-5 sentences minimum
-The Pivot: Answered in 3-5 sentences minimum
-The Process: Answered in 3-5 sentences minimum
-The Future: Answered in 3-5 sentences minimum
+[x]Created reflection page (linked from portfolio)
+[x]The Threshold: Answered in 3-5 sentences minimum
+[x]The Pit: Answered in 3-5 sentences minimum
+[x]The Pivot: Answered in 3-5 sentences minimum
+[x]The Process: Answered in 3-5 sentences minimum
+[x]The Future: Answered in 3-5 sentences minimum
 
 
 Part 6: README Documentation
-Updated About section with my information
-Added live portfolio link
-Added learning log link
-Filled in Design Direction (fonts, colors, vibe)
-Listed all four featured projects with descriptions
-Credited any assets I didn't create
-Cited tutorials or resources I used
-Disclosed AI assistance (or noted "none")
-Added link to Figma file
-Deleted the "How to Use" comment block at top
+[x]Updated About section with my information
+[x]Added live portfolio link
+[x]Added learning log link
+[x]Filled in Design Direction (fonts, colors, vibe)
+[x]Listed all four featured projects with descriptions
+[x]Credited any assets I didn't create
+[x]Cited tutorials or resources I used
+[x]Disclosed AI assistance (or noted "none")
+[x]Added link to Figma file
+[x]Deleted the "How to Use" comment block at top
 
 
 Part 7: Submission
